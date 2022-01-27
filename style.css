@@ -195,11 +195,11 @@ body{
     float: right;
 }
 
+.graph li[data-score="80%"] { width: 80%;}
+.graph li[data-score="75%"] { width: 75%;}
 .graph li[data-score="70%"] { width: 70%;}
-.graph li[data-score="70%"] { width: 70%;}
-.graph li[data-score="80%"] { width: 85%;}
-.graph li[data-score="50%"] { width: 50%;}
-.graph li[data-score="65%"] { width: 50%;}
+.graph li[data-score="60%"] { width: 60%;}
+.graph li[data-score="75%"] { width: 75%;}
 
 .list dt{
     color:whitesmoke;
