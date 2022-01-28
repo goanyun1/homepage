@@ -159,7 +159,25 @@ body{
     margin-bottom: -10px;
     
 }
+.icons a.linkedin {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-image: url("linkedin.png");
+    background-position: center top;
+    margin-bottom: -10px;
+    
+}
 
+.icons a.line {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-image: url("line (6).png");
+    background-position: right top;
+    margin-bottom: -10px;
+    
+}
 
 
 
